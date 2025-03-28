@@ -3,6 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := siyu_led
+PROJECT_NAME := vfd_led
 
 include $(IDF_PATH)/make/project.mk
