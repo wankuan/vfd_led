@@ -1,0 +1,6 @@
+menuconfig RGB_IO
+    int "RGB IO Pin"
+    default 3
+menuconfig RGB_NUMS
+    int "RGB led number"
+    default 8
